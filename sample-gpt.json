@@ -1,0 +1,25 @@
+{
+  "device_id": "smart_home_sensor_123",
+  "timestamp": "2023-04-20T15:45:00Z",
+  "temperature": 22.8,
+  "humidity": 45.3,
+  "occupancy": true,
+  "battery_level": 78,
+  "status": "normal",
+  "location": {
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "city": "San Francisco",
+    "country": "USA"
+  },
+  "sensor_readings": {
+    "light_intensity": 650,
+    "sound_level": 32.5,
+    "air_quality": "good"
+  },
+  "metadata": {
+    "firmware_version": "v1.2.3",
+    "manufacturer": "TechCo",
+    "sensor_type": "multi-sensor"
+  }
+}
